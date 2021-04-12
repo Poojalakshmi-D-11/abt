@@ -1,0 +1,144 @@
+body{
+    background-color: #f4f4f2;
+    margin: 0;
+    text-align: center;
+    
+    
+}
+.top{
+    
+    background-color: #d7eff7;
+    position: relative;
+    padding-top: 100px;
+    
+     
+}
+.mid{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #b0d2dd;
+    position: relative;
+    
+}
+.bottom{
+    padding-top: 20px;
+    background-color: #8badb8;
+    position: relative;
+}
+p{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.unline{
+    text-decoration: underline;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    top: 220px;
+    left: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    top: 80px;
+    left: 800px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: mediumvioletred;
+    font-size: 3em;
+}
+h2{
+    font-family: 'Merriweather', sans-serif;
+    color: rgb(138, 139, 197);
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: #d0e8f2;
+    width: 5%;
+}
+
+.imgme{
+    
+    height: 150px;
+    width: auto;
+    display: block;
+    margin: auto;
+    border: 3px solid rgb(118, 149, 175);
+    padding:0px;
+    border-radius: 50%; 
+
+}
+.shortit{
+    padding: 10px;
+    width: 50%;
+    margin: 0;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    color: rgb(16, 50, 80);
+}
+
+.s1{
+    color: rgb(78, 159, 230);
+    font-weight: bold;
+    
+}
+
+.tran{
+    opacity: 20%;
+    height: 10%;
+    width: 10%;
+}
+
+.onimage{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+.inside{
+    background-color: #b0d2dd;
+    position: relative;
+}
+
+.small-icon{
+    height: 10%;
+    width: 2%;
+    position: absolute;
+    top: 45%;
+    left: 17%;
+    display: inline;
+}
+
+.side{
+    position: absolute;
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    font-weight: bold;
+}
+
+.small-icon1{
+    height: 10%;
+    width: 2%;
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    display: inline;
+}
+
+.side1{
+    position: absolute;
+    top: 45%;
+    left: 62%;
+    font-weight: bold;
+}
